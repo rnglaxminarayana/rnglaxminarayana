@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rnglaxminarayana
 - 👀 I’m interested in learning new and evolving
-- 🌱 I’m currently learning "introduction to computer science"
-- 💞️ I’m looking to collaborate on coding,AI
+- 🌱 I’m currently learning "introduction to Elecric Vehicles and Hybrid Eectric Vehicles"
+- 💞️ I’m upskilling myself using "SWAYAM" 
 - 📫 How to reach me rnglaxminarayana@gmail.com
 
 
