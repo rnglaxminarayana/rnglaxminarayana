@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rnglaxminarayana
 - 👀 I’m interested in learning new and evolving
-- 🌱 I’m currently learning "introduction to Elecric Vehicles and Hybrid Eectric Vehicles"
+- 🌱 I’m currently learning "Charging Infrastructure in Elecric Vehicles"
 - 💞️ I’m upskilling myself using "SWAYAM" 
 - 📫 How to reach me rnglaxminarayana@gmail.com
 
